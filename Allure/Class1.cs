@@ -1,8 +1,17 @@
 ﻿using System;
+using NUnit.Framework;
 
 namespace Allure
 {
-    public class Class1
+    [TestFixture]
+
+    class TestClass
     {
+        [Test(Description = "XXX")]
+
+        public void TestSample()
+        {
+            Console.WriteLine(DateTime.Now);
+        }
     }
 }
