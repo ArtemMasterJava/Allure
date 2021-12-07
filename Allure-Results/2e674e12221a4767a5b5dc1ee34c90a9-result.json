@@ -1,0 +1,96 @@
+{
+  "uuid": "c795672f-415d-4b86-8f8f-55614d99c53d-tr-0-1052",
+  "historyId": "Cms.Ui.Tests.Tests.TestClass.TestSample",
+  "fullName": "Cms.Ui.Tests.Tests.TestClass.TestSample",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MAXI-075"
+    },
+    {
+      "name": "testClass",
+      "value": "Cms.Ui.Tests.Tests.TestClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestSample"
+    },
+    {
+      "name": "package",
+      "value": "Cms.Ui.Tests.Tests.TestClass"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "User"
+    },
+    {
+      "name": "suite",
+      "value": "PassedSuite"
+    },
+    {
+      "name": "subSuite",
+      "value": "NoAssert"
+    }
+  ],
+  "links": [
+    {
+      "name": "ISSUE-1",
+      "url": "https://crambo.co/tfs/Maxitech/Websites/_workitems/edit/232667/ISSUE-1",
+      "type": "issue"
+    },
+    {
+      "name": "TMS-12",
+      "url": "https://testrail.com/browse/TMS-12",
+      "type": "tms"
+    }
+  ],
+  "name": "TestSample",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TestSample"
+  },
+  "stage": "finished",
+  "description": "XXX\n",
+  "steps": [
+    {
+      "name": "TestSample",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f4fab64199b5415492da789c5783ac2d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1638878320733,
+      "stop": 1638878320740
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1638878320733,
+  "stop": 1638878320744
+}

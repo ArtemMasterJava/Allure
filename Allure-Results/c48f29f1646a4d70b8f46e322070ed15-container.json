@@ -1,0 +1,12 @@
+{
+  "uuid": "e80235d4-173c-4623-8afa-071a329b9fd6-tc-0-1051",
+  "name": "Cms.Ui.Tests.Tests.TestClass.TestSample",
+  "children": [
+    "c795672f-415d-4b86-8f8f-55614d99c53d-tr-0-1052"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1638878320731,
+  "stop": 1638878320778
+}
